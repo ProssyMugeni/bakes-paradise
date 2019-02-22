@@ -1,0 +1,290 @@
+body{
+    font:
+    15px/1.5 Arial, Helvetica, Sans-serif;
+    padding:0;
+    margin:0;
+    background-color: #f1f1c1;
+}
+.container{
+    width:80%;
+    margin: auto;
+    overflow:hidden;
+}
+header{
+    background-color:  rgb(49, 4, 4);
+    color:orange;
+    padding-top: 30px;
+    min-height:30px;
+    border-bottom: orangered 3px solid;
+}
+header a{
+    color: orangered;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+header ul{
+    margin: 0;
+    padding: 0;
+}
+header li{
+    display:inline-block;
+    padding: 0 20px 0 20px;
+    font-family: Segou UI Historic;
+    font-size: 20px;
+    
+}
+ul{
+    padding:0;
+    margin: 0;
+}
+header #branding{
+    float:left;
+    margin-left: 0%;
+}
+header nav{
+    float:right;
+    margin-top: 3px;
+}
+header .highlight, header .current a{
+    color:orangered;
+    font-weight: bold;
+}
+header a:hover{
+    font-weight: bold;
+    background-color:hsl(17, 86%, 57%);
+}
+/*showcase*/
+#showcase{
+    min-height: 600px; 
+background: url('bg img.PNG') no-repeat 0 -400px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color:orangered;
+
+
+}
+#showcase h1{
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 10px;
+    font-family: Algerian;
+
+}
+#showcase p{
+     padding:15px; 
+     color:orangered;
+     font-family: Bell MT;
+     font-size: 30px;
+}
+#order{
+    padding:15px;
+    color:#ffffff;
+    background: orangered;
+
+}
+#order h1{
+    float: left;
+}
+ #order form{
+     float: right;
+     margin-top: 15px;
+ } 
+ #order input[type="order"]{
+     padding:4px;
+     height:25px;
+     width:250px;
+ }
+ .button_1{
+       height: 38px;
+       background-color: brown;
+       border: 0;
+       padding-left: 20px;
+       padding-right: 20px;
+       color:#ffffff;
+ } 
+ /*boxes*/ 
+ #boxes{
+      margin-top: 20px;
+    }
+      #boxes h3{
+      text-align: center;
+     font-weight: bold; 
+     color:orangered;
+      font-family:bell mt;
+      font-size: 140%; 
+  
+     
+ }
+ #wholestory{ 
+    
+     font-family: bell mt; 
+     
+    
+ }
+ #wholestory h3{
+     text-align:left;
+     color: orangered;
+     font-weight: bold;
+     
+ }
+ #boxes .box{
+       float:left;
+       text-align: center;
+       width:30%;
+       padding: 10px;
+       font-family: bell mt;
+       
+       
+ }
+ footer{
+     padding: 10px;
+     margin-top: 20px;
+     color:#ffffff;
+     text-align: center;
+     background-color: maroon;
+ }
+ .current{
+     color:orangered;
+ }
+ table,th, tr,td{
+    width:40%;
+    background-color:#f2f2c2;
+    border:3px solid white;
+    border-collapse:collapse;
+    text-align: center;
+    background-position:center;
+ }
+ .gallery{
+     font-family: bell mt;
+      background-color:brown;
+       color:orangered;
+       font-size: 30px;
+    text-align: center;
+    
+}
+#tants{
+    background-color: #f2f2c2;
+}
+#prices{
+    margin-top: 20px;
+    font-family: bell mt;
+  }
+    #prices h3{
+    text-align: center;
+   font-weight: bold; 
+   color:orangered;
+    font-family:bell mt; }
+    #prices .afford{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 100%;
+  }
+  #star{
+    margin-top: 20px;
+    font-family: bell mt;
+  }
+    #star h3{
+    text-align: center;
+   font-weight: bold; 
+   color:orangered;
+    font-family:bell mt; 
+font-size: 140%;}
+    #star .story{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 110%;
+        height: 90%;
+  }
+  #star h5{
+    font-weight: bold; 
+    color:red;
+     font-family:bell mt; 
+  }
+  .voted {
+    float:left;
+    text-align: center;
+    width:30%;
+    padding: 10px;
+    
+    
+  }
+  .voted h3{
+    color:orangered;
+    font-family:bell mt; }
+    #staff{
+        margin-top: 20px;
+    font-family: bell mt;
+    }
+    #staff .our{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 110%;
+        height: 90%;
+    }
+  #staff h3{
+    font-weight: bold; 
+    color:orangered;
+     font-family:bell mt;
+     text-align: center;
+  }
+  #staff h5{
+    font-weight: bold; 
+    color:red;
+     font-family:bell mt;
+     
+  }
+ #about {min-height: 100px; 
+  background: url('10.jpg') no-repeat 0 -400px;
+      text-align: center;
+      background-size: cover;
+      background-position: center;
+      color:orangered;
+    font-family: algerian;
+font-size: 40px;}
+  #serv{
+    min-height: 90px; 
+    background: url('8.jpg') no-repeat 0 -400px;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        color:orangered;
+      font-family: chiller;
+  font-size: 40px;
+  }
+  #serv p{
+    padding:15px; 
+    color:orangered;
+    font-family:bell mt;
+    font-size: 30px;
+  }
+  table{
+      text-align: center;
+    color:brown;
+    font-family:bell mt;
+    font-size:20px; 
+  }
+  form{margin-left:45%;}
+ h3{text-align:center;
+    border-radius:10px; }
+    #more{
+        min-height: 100px; 
+  background: url('img90.jpg') no-repeat 0 -400px;
+      text-align: center;
+      background-size: cover;
+      background-position: center;
+      color:orangered;
+    font-family: algerian;
+font-size: 40px;}
+    }  
+    #fone{
+        background-color:  rgb(51, 10, 10);
+    }
+              

@@ -1,0 +1,180 @@
+ <section id="boxes">
+         <div class="container">
+             <div class="box">
+     <h2> The Whole Story</h2>
+     <h2>We want to show the world what real pastries taste like! </h2>
+     <p> Bakes Paradise was born out of passion to provide the community with quality, tasty and all natural pastries. We believe dessert do not signal the end of the  party, but rather another memorable moment to cherish in all throughout the day.</p>
+    </div>
+    <div class="box">
+     <h5>Best Pastry Shop in Uganda</h5>
+    <p> Well look at that! We were voted #1 pastry shop in Uganda in 2018.</p>
+    </div>
+    <div class="box">
+    <h2>News, Events & Such</h2>
+    <h5>Cake & Ice Cream Festival</h5>
+    <p>*25th December 2018</p>
+    <p>The Cake & Ice Cream Festival at the Uganda Museum stsrting at 12:00pm till late. Come excite your tastebuds with a variety of cake types and  ice cream flavors. Entrance is 10k. Come One, Come All!</p>
+   </div>
+   <div class="box">
+    <h5>Cakes & Fireworks Party</h5>
+    <p>*1st January 2019</p>
+    <p>The cakes and fireworks End of Year Party at Club Guvnor starting at 6:00pm till late. Come experince a new begining for the new year. Entrance is 15k & 50k VIP.</p>
+    </div>
+    <div class="box">
+    <h5> The Wedding Cake Expo</h5>
+    <p>*20th January 2019</p>
+    <p>The Wedding Cake Expo at UMA showgrounds Lugogo. Entrance is Free!</p>
+    </div>
+    <div class="box">
+    <h2> The different sweet tantalizing flavors & types of pastries you can choose from;</h2>
+    <img src="">
+    <p>Death by Chocolate Cake</p>
+    <img src="">
+    <p>Irish Coffee Cake </p>
+    </div>
+    <div class="">
+    <h1>Download Our App from Google Play Store!</h1>
+    <p>Questions|Concerns| Orders</p>
+    <p>Let Us Know What You Need, We will get back to you ASAP!</p>
+    <form></form>
+    </div>
+    <div class="">
+    <h1>CONTACT US</h1>
+    <p>Phone | 0759551329/ 0788557706</p>
+    <p>Email | info@bakes-paradise.com</p>
+    <h1>ADDRESS</h1>
+    <p>Plot 23, Old Kireka Road, Mbuya II, Nakawa</p>
+    <p>London Chambers, Shop No. A33</p>
+    <h1>HOURS</h1>
+    <p>Monday - Thursday 7AM - 10PM</p><p>Friday 10AM - 9PM </p><p>Saturday 10AM - 11 am</p><p>Sunday Closed</p>
+    </div>-->
+    <footer>
+        <h1>Bakes Paradise, Copyright @ 2018</h1>
+
+    </footer><h4> The Wedding Cake Expo</h4>
+    <p>*20th January 2019</p>
+    <p>The Wedding Cake Expo at UMA showgrounds Lugogo starting at 9:am to 8:pm. Come join us as we celebrate 20 years of baking unspeakably delicious pastries and stand a chance to win a lots of goodies with lots of entertainment from Uganda's Best comedians. Entrance is Free!</p>
+    <img src="calender.b.PNG">
+      
+    <section id="tants">
+    <div class="gallery">
+    <h2 style="font-family: bell mt; background-color:brown; color:orangered;font-size: 40px"> The different sweet tantalizing flavors & types of pastries you can choose from;</h2>
+      </div>
+      <section id="tants">
+    <div class="gallery">
+    <h2 > The different sweet tantalizing flavors & types of pastries you can choose from;</h2>
+      </div>
+      <div class="tab">
+    <table>
+        <table>
+            <thead>
+                <tr>
+                    <th>PRODUCT</th>
+                    <th>DISCOUNT</th>
+                    <th>PRICE</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><img src="13.jpg" style="height:35%; width:40%; margin-left: 10%;"><p>Death By Chocolate Cake</p></td>
+                    <td>130,000/=</td>
+                    <td>Get At Best Price</td>
+                </tr>
+                <tr>
+                    <td><img src="12.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Irish Coffe Cake</p></td>
+                    <td>160,000/=</td>
+                    <td>Eldoret</td>
+                </tr>
+                <tr>
+                    <td><img src="11.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Strawberry Crater</p></td>
+                    <td>180,000/=</td>
+                    <td>Nairobi</td>
+                
+                    <tr>
+                        <td><img src="10.jpg" style="height:35%; width:40%; margin-left: 10%;"><p>Death By Chocolate Cake</p></td>
+                        <td>130,000/=</td>
+                        <td>Get At Best Price</td>
+                    </tr>
+                    <tr>
+                        <td><img src="9.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Irish Coffe Cake</p></td>
+                        <td>160,000/=</td>
+                        <td>Eldoret</td>
+                    </tr>
+                    <tr>
+                        <td><img src="8.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Strawberry Crater</p></td>
+                        <td>180,000/=</td>
+                        <td>Nairobi</td>
+                    </tr>
+                    <tr>
+                        <td><img src="7.jpg" style="height:35%; width:40%; margin-left: 10%;"><p>Death By Chocolate Cake</p></td>
+                        <td>130,000/=</td>
+                        <td>Get At Best Price</td>
+                    </tr>
+                    <tr>
+                        <td><img src="6.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Irish Coffe Cake</p></td>
+                        <td>160,000/=</td>
+                        <td>Eldoret</td>
+                    </tr>
+                    <tr>
+                        <td><img src="5.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Strawberry Crater</p></td>
+                        <td>180,000/=</td>
+                        <td>Nairobi</td>
+                    
+                        <tr>
+                            <td><img src="4.jpg" style="height:35%; width:40%; margin-left: 10%;"><p>Death By Chocolate Cake</p></td>
+                            <td>130,000/=</td>
+                            <td>Get At Best Price</td>
+                        </tr>
+                        <tr>
+                            <td><img src="3.jpg" style="height:10%; width:40%; margin-left: 10%;"><p>Irish Coffe Cake</p></td>
+                            <td>160,000/=</td>
+                            <td>Eldoret</td>
+                        </tr>
+                        <tr>
+                            <td><img src="2.jpg" style="height:40%; width:40%; margin-left: 10%;"><p>Strawberry Crater</p></td>
+                            <td>180,000/=</td>
+                            <td>Nairobi</td>
+                        </tr>
+                        <tr>
+                            <td><img src="1.jpg" style="height:60%; width:40%; margin-left: 10%;"><p>Strawberry Crater</p></td>
+                            <td>180,000/=</td>
+                            <td>Nairobi</td>
+                        </tr>
+            </tbody>
+            <tfoot>
+                </tfoot>
+
+    </table>
+</div>
+</section>
+style="background-color:lightsalmon;color: white; text-align: left; image-orientation: right;">
+            <h1>Download Our App from Google Play Store!</h1>
+            <img src="phone.PNG">
+    </div>
+    <div style="background-color: maroon; color:white;">
+    <p>Q    <divuestions|Concerns| Orders</p>
+    <p>Let Us Know What You Need, We will get back to you ASAP!</p>
+    <form>
+        <input type="name" placeholder="Name">
+        <input type="Email" placeholder="Email">
+        <input type="subject" placeholder="Subject">
+        <input type="message" placeholder="Message">
+        <button type="send" class="button_1">Send</button> 
+    </form>
+    </div>
+    <div style="text-align: center; color: white; background-color:maroon;">
+            <h1>CONTACT US</h1>
+            <p>Phone | 0759551329/ 0788557706</p>
+            <p>Email | info@bakes-paradise.com</p>
+            <h1>ADDRESS</h1>
+            <p>Plot 23, Old Kireka Road, Mbuya II, Nakawa</p>
+            <p>London Chambers, Shop No. A33</p>
+            <h1>HOURS</h1>
+            <p>Monday - Thursday 7AM - 10PM</p><p>Friday 10AM - 9PM </p><p>Saturday 10AM - 11 am</p><p>Sunday Closed</p>
+            </div>
+    <footer>
+        <h1>Bakes Paradise, Copyright @ 2018</h1>
+    </footer><div class="voted">
+                <p><figure><img src="voted.PNG" alt="Juliana"height= "90" width="110" align="left" /><br><figcaption></figure> <h3>Best Pastry Shop in Uganda!</h3></figcaption>Voted #no.1 In Uganda.Well look at that! We were voted #1 pastry shop in Uganda in 2018.</p><p><a href="About.html"></p>   </div>
+           
+                       </div>
